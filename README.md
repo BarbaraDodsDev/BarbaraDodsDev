@@ -51,3 +51,9 @@ Desenvolvedora Full Stack construindo aplicações web modernas com foco em perf
 - 🔗 [LinkedIn](https://www.linkedin.com/in/barbara-dods/)  
 - 🌐 [Portfólio pessoal](https://preview.canva.site/b931d069-2f54-4278-a13e-fee3012e17c6/barbara.do/portfolio-barbara-dods/#page-4)
 
+---
+
+### 🐍 Snake eating my contributions
+
+![snake gif](https://github.com/BarbaraDodsDev/BarbaraDodsDev/blob/output/github-contribution-grid-snake.gif?raw=true)
+
