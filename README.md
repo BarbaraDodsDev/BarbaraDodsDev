@@ -53,8 +53,6 @@ Desenvolvedora Full Stack construindo aplicações web modernas com foco em perf
 
 ---
 
-### 🐍 Snake eating my contributions
-
 ![snake gif](https://raw.githubusercontent.com/BarbaraDodsDev/BarbaraDodsDev/output/github-contribution-grid-snake.gif)
 
 
