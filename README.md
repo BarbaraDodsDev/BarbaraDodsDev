@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/seu-usuario">
+  <a href="https://www.linkedin.com/in/barbara-dods/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/BarbaraDodsDev">
